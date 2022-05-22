@@ -15,6 +15,7 @@ The following **required** functionality is completed:
 * [x] The tip and total amount are updated immediately when any of the inputs changes.
 * [x] The user sees a label or color update based on the tip amount. 
 
+<img src="https://user-images.githubusercontent.com/100294737/169688086-1737ff6f-b097-49d7-9e6a-7860ca9f8073.gif" height="500">
 
 
 ## Notes
