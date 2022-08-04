@@ -13,7 +13,9 @@ The following **required** functionality is completed:
 * [x] User can enter in a bill amount (total amount to tip on)
 * [x] User can enter a tip percentage (what % the user wants to tip).
 * [x] The tip and total amount are updated immediately when any of the inputs changes.
-* [x] The user sees a label or color update based on the tip amount. 
+* [x] The user sees a emoticon update based on the tip amount. 
+* [x] The user can enter the number of persons He/She want to split the bill.
+* [x] The Split Total amount are updated  immediately when any of the inputs changes.
 
 ## Video Walkthrough
 
