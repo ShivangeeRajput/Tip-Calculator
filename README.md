@@ -10,6 +10,7 @@ Time spent: **10** hours spent in total
 
 The following **required** functionality is completed:
 
+* [x] Splash Screen
 * [x] User can enter in a bill amount (total amount to tip on)
 * [x] User can enter a tip percentage (what % the user wants to tip).
 * [x] The tip and total amount are updated immediately when any of the inputs changes.
@@ -23,7 +24,7 @@ Here's a walkthrough of implemented user stories:
 
 
 <img src="https://user-images.githubusercontent.com/100294737/182912092-6643ddc7-836e-4bda-ac3d-2fb3ccb899d1.gif" height="500">
-
+<img src="https://user-images.githubusercontent.com/100294737/223971231-8658ccb7-5e40-475f-9669-8afd82624d62.jpg" height="500">
 
 ## Notes
 
