@@ -22,10 +22,11 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-
+<p>
+ <img src="https://user-images.githubusercontent.com/100294737/223971231-8658ccb7-5e40-475f-9669-8afd82624d62.jpg" height="500">
 <img src="https://user-images.githubusercontent.com/100294737/182912092-6643ddc7-836e-4bda-ac3d-2fb3ccb899d1.gif" height="500">
-<img src="https://user-images.githubusercontent.com/100294737/223971231-8658ccb7-5e40-475f-9669-8afd82624d62.jpg" height="500">
 
+</p>
 ## Notes
 
 Describe any challenges encountered while building the app.
